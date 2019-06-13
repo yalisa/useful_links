@@ -10,6 +10,10 @@ http://ggobi.github.io/ggally/#axis_control
 
 https://kpfu.ru/docs/F407025247/metodichka_R_2.pdf 
 
+## R & stat
+[Handbook of Biological Statistics
+John H. McDonald](http://www.biostathandbook.com/index.html)
+
 ## Python
 https://github.com/Yorko/python_intro
 
