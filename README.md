@@ -17,6 +17,12 @@ John H. McDonald](http://www.biostathandbook.com/index.html)
 ## Python
 https://github.com/Yorko/python_intro
 
+https://pythonbooks.org/ -- книги
+
+https://github.com/satwikkansal/wtfPython 
+
+https://www.youtube.com/channel/UCruMegFU9dg2doEGOUaAWTg -- конфа
+
 ## Sciences
 https://africanfossils.org/search
 
