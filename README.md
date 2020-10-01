@@ -32,6 +32,10 @@ https://www.hse.ru/data/2010/12/14/1208233421/Lecture%2003.pdf
 ##go
 http://gotools.sourceforge.net/
 
+https://github.com/jtauber/sgf
+
+https://www.reddit.com/r/baduk/comments/gm6myy/links_for_newcomers/
+
 ## misc
 [good questions](https://github.com/stleon/questions_about_job)
 [AI](https://neuralnet.info/)
